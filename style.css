@@ -1,0 +1,131 @@
+body{
+
+    font-family: Arial;
+
+    background-image: url("https://wallpaperaccess.com/full/8473399.jpg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+}
+
+form{
+
+    width: 500px;
+
+    margin: auto;
+
+    margin-top: 30px;
+
+    background-color: rgba(27, 27, 27, 0.95);
+
+    padding: 25px;
+
+    border-radius: 10px;
+
+    border: 2px solid #202021;
+}
+
+h1{
+
+    text-align: center;
+
+    color: #ffffff;
+
+    margin-bottom: 20px;
+}
+
+.form-group{
+
+    margin-bottom: 18px;
+}
+
+label{
+
+    display: block;
+
+    margin-bottom: 5px;
+
+    font-weight: bold;
+
+    color: white;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+input[type="date"],
+select{
+
+    width: 100%;
+
+    padding: 10px;
+
+    border: 1px solid #0f0f0f;
+
+    border-radius: 5px;
+
+    background-color: #151516;
+
+    color: white;
+}
+
+/* CHECKBOX */
+
+input[type="checkbox"]{
+
+    margin-right: 5px;
+}
+
+/* COLOR */
+
+input[type="color"]{
+
+    width: 100%;
+
+    height: 40px;
+
+    border: none;
+
+    background: none;
+}
+
+/* BOTÃO */
+
+input[type="submit"]{
+
+    width: 100%;
+
+    padding: 12px;
+
+    background-color: #000000;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+}
+
+input[type="submit"]:hover{
+
+    background-color: #2f2f2f;
+}
+
+/* MENSAGEM */
+
+#mensagem{
+
+    margin-top: 15px;
+
+    text-align: center;
+
+    font-weight: bold;
+
+    color: #4ade80;
+}
