@@ -75,14 +75,14 @@ select{
     color: white;
 }
 
-/* CHECKBOX */
+
 
 input[type="checkbox"]{
 
     margin-right: 5px;
 }
 
-/* COLOR */
+
 
 input[type="color"]{
 
@@ -95,7 +95,7 @@ input[type="color"]{
     background: none;
 }
 
-/* BOTÃO */
+
 
 input[type="submit"]{
 
@@ -117,7 +117,7 @@ input[type="submit"]:hover{
     background-color: #2f2f2f;
 }
 
-/* MENSAGEM */
+
 
 #mensagem{
 
